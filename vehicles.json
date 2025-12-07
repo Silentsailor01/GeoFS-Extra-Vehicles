@@ -8,6 +8,13 @@
       "ls": 1
     },
     {
+      "name": "McDonnell Douglas MD-12 (by AF267 and Icosahedron)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/McDonnell Douglas MD-12_416867_5778/",
+      "id": 5510,
+      "mp": "red",
+      "ls": 0
+    },
+    {
       "name": "Cessna Citation CJ2 (ADSB)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/c25a_380019_5367/",
       "id": 1021,

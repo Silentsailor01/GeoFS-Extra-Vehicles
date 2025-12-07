@@ -3,8 +3,8 @@
 // @version      1.4
 // @description  Adds extra vehicles to GeoFS
 // @author       AF267
-// @updateURL    https://raw.githubusercontent.com/af267/GeoFS-Extra-Vehicles/refs/heads/main/main.js
-// @downloadURL  https://raw.githubusercontent.com/af267/GeoFS-Extra-Vehicles/refs/heads/main/main.js
+// @updateURL    https://raw.githubusercontent.com/Silentsailor01/GeoFS-Extra-Vehicles/refs/heads/main/main.js
+// @downloadURL  https://raw.githubusercontent.com/Silentsailor01/GeoFS-Extra-Vehicles/refs/heads/main/main.js
 // @match        https://geo-fs.com/geofs.php*
 // @match        https://*.geo-fs.com/geofs.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
@@ -16,8 +16,8 @@
     console.log("Extras script running...");
 
     // ALWAYS CHANGE BACK TO THIS:
-    // https://raw.githubusercontent.com/af267/GeoFS-Extra-Vehicles/refs/heads/main/vehicles.json
-    const DATA_URL = "https://raw.githubusercontent.com/af267/GeoFS-Extra-Vehicles/refs/heads/main/vehicles.json";
+    // https://raw.githubusercontent.com/Silentsailor01/GeoFS-Extra-Vehicles/refs/heads/main/vehicles.json
+    const DATA_URL = "https://raw.githubusercontent.com/Silentsailor01/GeoFS-Extra-Vehicles/refs/heads/main/vehicles.json";
 
     const aircraftButton = document.querySelector('button[data-toggle-panel=".geofs-aircraft-list"]');
     if (!aircraftButton) {
